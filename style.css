@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 30px;
+    background-color: lightgray;
+    padding-left: 10px;
+}
+
+#logo {
+    height:100%;
+}
